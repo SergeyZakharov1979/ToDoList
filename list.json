@@ -1,0 +1,14 @@
+[
+  {
+    "text": "Купить стул",
+    "status": true
+  },
+  {
+    "text": "Поехать к тёще",
+    "status": false
+  },
+  {
+    "text": "Доделать проект",
+    "status": false
+  }
+]
